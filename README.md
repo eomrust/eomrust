@@ -1,0 +1,4 @@
+- 👋 Hi, I’m eom
+- 👀 I’m interested in securing and scaling blockchain infrastructure. 
+- 🌱 I’m currently learning rust. 
+- 🐦 [Twitter](https://twitter.com/eomrust)
